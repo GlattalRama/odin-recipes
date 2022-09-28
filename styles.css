@@ -1,0 +1,25 @@
+.bodyclass {
+  background-color: grey;
+  padding 30px;
+}
+
+.section  
+{
+  background-color: orange;  
+  color: red;
+  text-align: center;
+      
+}
+
+.aloofryclass ,
+.dalfryclass  ,
+.palakpaneerclass
+{
+  background-color: black;  
+  color: white;
+}
+
+.section img {
+  max-height: 100px;
+  max-width: 200px;
+}   
