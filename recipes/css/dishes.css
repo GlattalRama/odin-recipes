@@ -8,7 +8,7 @@
 }
 
 .dishsection {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(222, 246, 248);
     text-align: left;
     color: purple;
     padding: 10px;
@@ -33,10 +33,12 @@
 
 .dishimage {
     flex: 1;
-    width: 50%;
-
+   
 }
 .ingredients {
     flex: 1;
-    width: 50%;
+   
+}
+.seasoning {
+    flex: 1;
 }
